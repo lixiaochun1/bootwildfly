@@ -1,0 +1,5 @@
+http://wildfly.org/news/page/9/
+http://www.tuicool.com/articles/YVBBfq
+http://stackoverflow.com/questions/17926276/service-jboss-web-deployment-default-host-realm-is-already-registered
+http://stackoverflow.com/questions/24108546/change-wildfly-8-welcome-content-to-use-myapplication-war
+http://www.tuicool.com/articles/YVBBfq
