@@ -14,8 +14,8 @@ public class HelloWildFlyController {
 	
 	@RequestMapping( value="/**", method= RequestMethod.GET)
     public String sayBoot(HttpServletRequest request){
-        return ("Hello, map all reuqest to return say boot");
-    //    return getRestTemplate().getForObject(request.getRequestURL().toString(), String.class);
+    //    return ("Hello, map all reuqest to return say boot");
+        return getRestTemplate().getForObject(request.getRequestURL().toString(), String.class);
     }
 	
     @RequestMapping("hello")
